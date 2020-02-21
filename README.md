@@ -2,7 +2,7 @@
 
 ## A new Flutter project by Flutterism!
 
-> What can we built with ListWheelScrollView?
+> What can we build with ListWheelScrollView?
 
 > The answer is: **a briefcase lock code generator!**
 
